@@ -1,0 +1,6 @@
+{
+  "name": "AI Huquqiy Yordamchi",
+  "description": "O'zbekiston fuqarolari uchun avtomobil, uy-joy oldi-sotdisi va huquqiy amaliyotlar bo'yicha interaktiv xarita, avtobuslar qatnovi va ovozli AI maslahatchisi.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
